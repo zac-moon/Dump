@@ -1,0 +1,37 @@
+header {
+        background-color: bisque;
+            border-style:ridge;
+                border-width:5px;
+                }
+
+                body {
+                    background-color: beige;
+                        font-family: "System UI", sans-serif;
+                        }
+
+                        footer {
+                            background-color: bisque;
+                                border-style:ridge;
+                                    border-width:5px;
+                                    }
+                                    #privacyNotice {
+                                        font-size:10px;
+                                            align:center;
+                                            }
+                                            #privacyNoticeTitle {
+                                                font-size:20px;
+                                                }
+                                                #dumpNavBar {
+                                                    font-size:50px;
+                                                    }
+                                                    section {
+                                                        border-style:ridge;
+                                                            border-width:5px;
+                                                                background-color:bisque;
+                                                                    margin-top:4px;
+                                                                        margin-bottom:4px;
+                                                                        }
+                                                                        #homeTitle {
+                                                                            font-size:60px;
+                                                                            }
+}
